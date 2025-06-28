@@ -22,6 +22,6 @@ streamlit run app.py
 - The visualized files and output csv files are saved in 'outputs' folder.
 
 
-<img src="assets/app.png" width="600">
+<img src="assets/app.png" width="900">
 
-<img src="assets/app_jp.png" width="600">
+<img src="assets/app_jp.png" width="900">
